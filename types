@@ -3,6 +3,8 @@ types:
     args:
   file:
     args:
+  bytes:
+    args:
   list:
     args:
       - any
