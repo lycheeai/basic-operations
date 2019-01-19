@@ -1,6 +1,8 @@
 types:
   int:
     args:
+  file:
+    args:
   list:
     args:
       - any
@@ -15,4 +17,3 @@ types:
       - any
   gen:
     args:
-      
