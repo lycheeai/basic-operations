@@ -4,5 +4,5 @@ args:
     type: gen[file]
     description: CSV file
 output:
-  type: list[gen[bytes]]
+  type: array[gen[bytes]]
 reducer: true
