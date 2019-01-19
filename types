@@ -1,4 +1,2 @@
 types:
-  - int
-  - file
-  - bytes
+  - label_map
