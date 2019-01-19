@@ -1,0 +1,8 @@
+description: 
+  Unzips file/files
+args:
+  file_generator: 
+    type: gen[file]
+output:
+  type: gen[bytes]
+reducer: true
