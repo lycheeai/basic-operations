@@ -1,0 +1,18 @@
+types:
+  int:
+    args:
+  list:
+    args:
+      - any
+  tup2:
+    args:
+      - any
+      - any
+  tup3:
+    args:
+      - any
+      - any
+      - any
+  gen:
+    args:
+      
