@@ -1,7 +1,7 @@
 description: 
   Just echo back
 args:
-  file: 
+  st: 
     type: string
 output:
   type: string
