@@ -1,0 +1,7 @@
+description: 
+  Convert string to bytes. Self-explanatory.
+args:
+  st: 
+    type: string
+output:
+  type: bytes
