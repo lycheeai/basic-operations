@@ -1,0 +1,7 @@
+description: 
+  Just echo back
+args:
+  file: 
+    type: string
+output:
+  type: string
