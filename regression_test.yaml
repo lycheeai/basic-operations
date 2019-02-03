@@ -9,3 +9,4 @@ args:
     type: string  
 output:
   type: string
+reducer: true
