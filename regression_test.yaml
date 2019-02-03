@@ -1,0 +1,11 @@
+description: 
+  Run standard OLS regression
+args:
+  a: 
+    type: gen[string]
+  b:
+    type: gen[string]
+  reg_name:
+    type: string  
+output:
+  type: string

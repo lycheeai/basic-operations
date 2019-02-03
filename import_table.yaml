@@ -1,8 +1,0 @@
-description: Import a CSV and split it into multiple dataslices.
-args:
-  file_gen:
-    type: gen[file]
-    description: CSV file
-output:
-  type: array[gen[bytes]]
-reducer: true
