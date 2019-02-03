@@ -8,5 +8,5 @@ args:
   reg_name:
     type: string  
 output:
-  type: string
+  type: gen[string]
 reducer: true
